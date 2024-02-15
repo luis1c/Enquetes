@@ -17,7 +17,7 @@ Crie uma nova enquete.
 
 ```json
 {
-  "title": "Qual a melhor linguagem de programação?",
+  "title": "Qual o melhor destino turístico?",
   "options": [
     "Londres",
     "Roma",
